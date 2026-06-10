@@ -1,0 +1,9 @@
+
+Group 2
+
+
+->Finalized project topic: Discharge Disposition and Post-Acute Placement Coordination System.
+->Conducted team discussion and requirement analysis.
+->Completed Phase 1: Business Problem Statement.
+->Completed Phase 2: Project Scope (In Scope and Out of Scope).
+->Prepared for Phase 3: User Roles and Workflow Design.
