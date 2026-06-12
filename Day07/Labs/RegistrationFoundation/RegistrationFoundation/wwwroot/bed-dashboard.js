@@ -61,8 +61,7 @@ function renderBeds() {
         // Add bed to container
         container.appendChild(bedDiv);
     }
-    
-    
+
 }
 
 
