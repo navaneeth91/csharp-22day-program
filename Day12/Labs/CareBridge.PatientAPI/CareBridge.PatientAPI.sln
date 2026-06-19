@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareBridge.PatientAPI", "CareBridge.PatientAPI\CareBridge.PatientAPI.csproj", "{EE19B9C1-EF53-497D-931E-6CE973AD93BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE19B9C1-EF53-497D-931E-6CE973AD93BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE19B9C1-EF53-497D-931E-6CE973AD93BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE19B9C1-EF53-497D-931E-6CE973AD93BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE19B9C1-EF53-497D-931E-6CE973AD93BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F8E69A8-8A2A-4BCA-9306-BE728FBAA538}
+	EndGlobalSection
+EndGlobal
